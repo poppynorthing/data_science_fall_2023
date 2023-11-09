@@ -1,5 +1,6 @@
 # data_science_fall_2023
-The respository for my fall 2023 data science course with Sabrina McNew
+This is the git respository for my fall 2023 data science course with Sabrina McNew. 
 
+Who knows what will end up here.
 
-edit
+This is for learning git.
